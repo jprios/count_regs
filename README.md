@@ -65,6 +65,4 @@ def count_regs(y, xvars, n_extras=None):
         print(f"Sum of possible combinations: {combinations_sum + n_extras}")
     else:
         print(f"Number of regressions generated: {len(fmla_list)}")
-        print(f"Sum of possible combinations: {combinations_sum}")
-
-
+        print(f"Sum of possible combinations: {combinations_sum}") ```
